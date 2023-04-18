@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiences</title>
+</head>
+<body style="background-color: aquamarine;">
+    <h1>
+        DIVES AND TRAINING
+    </h1>
+    <P>
+        Here at SeaBubbles Diving we offer four different dives depending on time of day and experience. <br>
+        We also offer a diver certification course if that is something that interests you . <br>
+        All of our instructors are Dive Master Certified through internationally accredited PADI. This is the highest certification available. <br>
+        The ratio of guests to instructor is always low at a max of 4:1. This means our service is the best! NO KA OI! <br>
+        Below is a brief description of our different dives and certification course. <br>
+        Dive tours are roughly 2 hours long total, including training and diving.
+    </P>
+    <!--Shallow dive section-->
+    <img src="images/octopusShallowDivee.jpg" alt="diver next to octopus">
+    <h2>
+        SHALLOW DIVE (morning or afternoon)
+    </h2>
+    <p>
+        Our shallow dive is for all divers. We dive in the morning around 10a.m. and in the afternoon around 2p.m. <br>
+        Children 12 and over are allowed to dive on the shallow tours, as long as a guardian comes on the boat. <br>
+        We can gurantee that you will get to see and interact with the animals. Sea Turtles are all over the place. <br>
+        Dive tours are roughly 2 hours long total, including training and diving. <br>
+    </p>
+    <img src="images/seaCowDeepDivee.jpg" alt="Diver behind big thing that looks like a seal">
+    <h2>
+        DEEP DIVE (morning onor afternoon)
+    </h2>
+    <p>
+        Our deep dive is for certified divers. There are two shipwrecks that we can explore: The ______ and The _________. <br>
+        Pictures are included with every dive for free. Ratios of instructor to guests are always kept low. <br>
+        You are guranteed to see fish and other wildlife. Humpback whales can be seen in later months of September to November when they come closer to the shore. <br>
+        We offer morning and afternoon dives 7 days a week. These dives usually take about 2 hours to complete. <br>
+    </p>
+    <h2>
+        TRAINING
+    </h2>
+    <P>
+        Training to become a certified diver is also available. This program takes two days or about 8 hours to finish. <br>
+        Instructors are certified Master Divers. The training includes diving in addition to written work and a test. <br>
+        Certification is valid in all 50 states.      
+    </P>
+</body>
+</html>
