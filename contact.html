@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet">
+    <!--Google Fonts-->
+    <link rel="stylesheet" href="styles.css">
+    <title>Contact</title>
+</head>
+
+<body style="background-color: aquamarine; text-align: center;">
+        <p>
+            We have two times available for diving or training 7 days a week. <br>
+            Please leave your information and we will contact you by email as soon as possible. <br>
+            Children 12 and over are allowed on a shallow dive.
+        </p>
+        <form action="thank-you.html">
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" value="" placeholder="First Name" required><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" value="" placeholder="Last Name" required><br>
+            <label for="phone">Phone Number</label><br>
+            <input type="text" id="phone" name="phone" value="" placeholder="(###)-###-####"><br>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" value="" placeholder="Email" required><br><br>
+            <label for="times">Please select a time</label>
+            <select id="times" name="Available Times">
+                <option value="10 A.M. SHALLOW">10 A.M. Shallow</option>
+                <option value="1 P.M. Deep">1 P.M. Deep</option>
+                <option value="10 A.M. Certification">10 A.M. Certification</option>
+                <option value="1 P.M. Certification">1 P.M. Certification</option>
+            </select> <br><br>
+            <textarea name="comments" id="textbox" cols="30"
+                rows="10">If you have any other questions or concerns type them here.</textarea>
+            <input type="submit" value="Submit">
+            <p>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3694.1942355675687!2d-159.3341768350134!3d22.19472353537852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c06e7cd98bfd30f%3A0xcc5ca14c5f65ec41!2sMoloa&#39;a%20Beach!5e0!3m2!1sen!2sus!4v1681921803823!5m2!1sen!2sus"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </p>
+        </form>
+
+</body>
+
+</html>
