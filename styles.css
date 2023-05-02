@@ -1,12 +1,12 @@
-body{
+body{/*Google Fonts and to center the content for entire website*/
     font-family: 'Dosis', sans-serif;
     background-color: aquamarine;
     text-align: center;
 }
-.top{
+.top{ /* logo pic pushes items to the right on index*/
     margin-right:300px;
 }
-
+/*Gallery Title*/
 .gal_title{
     text-align: center;
 }
